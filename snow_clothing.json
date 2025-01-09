@@ -1,0 +1,198 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_SNOW_CLOTHING",
+    "Icon": "Deliver",
+    "Color": "FFFFFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+      {
+        "ClassName": "BoonieHat_Snow_co",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 50,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "cargopants_Snow_co",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 50,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "combatboots_Snow_co",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 50,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "CoyoteBP_Snow_co",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 50,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "Ghillie_snow_Hood_ca",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 50,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "Ghillie_snow_Suit_ca",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 50,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "GorkaPants_Multicam_Snow_co",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 50,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "GorkaTop_Multicam_Snow_co",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 50,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "Highcap_Multicam_Snow_co",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 50,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "M65_Jacket_DpmWinter_co",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 50,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "TacticalGloves_Snow_co",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 50,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "Ushanka_Snow_co",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 50,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "militaryboots_Snow_co",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 50,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "BallisticHelm_Snow_co",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 50,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "BallisticHelm_SnowCam_co",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 50,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "mountain_snow_co",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 50,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "DryBag_Snow_co",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 1000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 50,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      }
+    ]
+  }
+  
